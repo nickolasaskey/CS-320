@@ -1,4 +1,4 @@
-How can I ensure that my code, program, or software is functional and secure
+How can I ensure that my code, program, or software is functional and secure?
 There are many ways to ensure that code is functional and secure, with the most practiced one being to complete various testing methods.  This includes both manual and automatic testing, as well as other testing strategies like functional, non-functional, unit, and regression testing.  These can help to provide a much needed insite into how the program is meant to function versus how it actually does function.  It is important to receive an output that is expected given any specific input.
 
 How do I interpret user needs and incorporate them into a program?
